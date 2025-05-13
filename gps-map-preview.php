@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         var map = L.map('gps-map', {
             scrollWheelZoom: false // 👈 disables scroll zoom
-        }).setView([<?php echo $lat; ?>, <?php echo $lng; ?>], 13);
+        }).setView([<?php echo $lat; ?>, <?php echo $lng; ?>], 17);
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '© OpenStreetMap'
