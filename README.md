@@ -11,4 +11,3 @@ A Wordpress plugin for displaying GPS coordinates on a map in a post's admin vie
 5. The map will automatically resize when the window is resized.
 
 More information at [robotSprocket](https://robotsprocket.com/my-first-wordpress-plugin/).
-19.2954639,-81.38328415
